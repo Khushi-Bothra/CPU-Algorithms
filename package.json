@@ -2,7 +2,7 @@
   "name": "processor-scheduler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Khushi-Bothra/CPU-Algorithms.git",
+  "homepage": "https://khushi-bothra.github.io/CPU-Algorithms/",
   "author": "khushi Bothra <khushi.bothra14784@gmail.com>",
   "dependencies": {
     "classnames": "^2.2.6",
