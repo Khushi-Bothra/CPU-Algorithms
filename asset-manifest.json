@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Khushi-Bothra/CPU-Algorithms.git/static/css/main.f90e14aa.css",
+    "main.js": "/Khushi-Bothra/CPU-Algorithms.git/static/js/main.c9c2d243.js",
+    "index.html": "/Khushi-Bothra/CPU-Algorithms.git/index.html",
+    "main.f90e14aa.css.map": "/Khushi-Bothra/CPU-Algorithms.git/static/css/main.f90e14aa.css.map",
+    "main.c9c2d243.js.map": "/Khushi-Bothra/CPU-Algorithms.git/static/js/main.c9c2d243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f90e14aa.css",
+    "static/js/main.c9c2d243.js"
+  ]
+}
