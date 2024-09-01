@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Khushi-Bothra/CPU-Algorithms.git/static/css/main.f90e14aa.css",
-    "main.js": "/Khushi-Bothra/CPU-Algorithms.git/static/js/main.c9c2d243.js",
-    "index.html": "/Khushi-Bothra/CPU-Algorithms.git/index.html",
-    "main.f90e14aa.css.map": "/Khushi-Bothra/CPU-Algorithms.git/static/css/main.f90e14aa.css.map",
-    "main.c9c2d243.js.map": "/Khushi-Bothra/CPU-Algorithms.git/static/js/main.c9c2d243.js.map"
+    "main.css": "/CPU-Algorithms/static/css/main.f90e14aa.css",
+    "main.js": "/CPU-Algorithms/static/js/main.99e097dc.js",
+    "index.html": "/CPU-Algorithms/index.html",
+    "main.f90e14aa.css.map": "/CPU-Algorithms/static/css/main.f90e14aa.css.map",
+    "main.99e097dc.js.map": "/CPU-Algorithms/static/js/main.99e097dc.js.map"
   },
   "entrypoints": [
     "static/css/main.f90e14aa.css",
-    "static/js/main.c9c2d243.js"
+    "static/js/main.99e097dc.js"
   ]
 }
