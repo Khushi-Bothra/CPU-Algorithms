@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CPU-Algorithms/static/css/main.f90e14aa.css",
-    "main.js": "/CPU-Algorithms/static/js/main.99e097dc.js",
+    "main.js": "/CPU-Algorithms/static/js/main.5b6c550c.js",
     "index.html": "/CPU-Algorithms/index.html",
     "main.f90e14aa.css.map": "/CPU-Algorithms/static/css/main.f90e14aa.css.map",
-    "main.99e097dc.js.map": "/CPU-Algorithms/static/js/main.99e097dc.js.map"
+    "main.5b6c550c.js.map": "/CPU-Algorithms/static/js/main.5b6c550c.js.map"
   },
   "entrypoints": [
     "static/css/main.f90e14aa.css",
-    "static/js/main.99e097dc.js"
+    "static/js/main.5b6c550c.js"
   ]
 }
